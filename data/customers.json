@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "6602d41e8bd9b734c6dfaf6f",
+    "name": "Sheree Gates",
+    "age": 22,
+    "email": "shereegates@comtrail.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2022-05-21T04:09:48"
+  },
+  {
+    "_id": "6602d41edadcf8a2164ec9f9",
+    "name": "Davidson Villarreal",
+    "age": 30,
+    "email": "davidsonvillarreal@comtrail.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2017-12-12T04:08:22"
+  },
+  {
+    "_id": "6602d41e167538e7c17d324e",
+    "name": "Madeleine Herring",
+    "age": 39,
+    "email": "madeleineherring@comtrail.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2023-08-18T06:26:18"
+  },
+  {
+    "_id": "6602d41ed1cb8ffd275c1359",
+    "name": "Jones Glover",
+    "age": 22,
+    "email": "jonesglover@comtrail.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2020-08-28T05:46:34"
+  },
+  {
+    "_id": "6602d41ebaf734462ad697a3",
+    "name": "Baxter Riggs",
+    "age": 36,
+    "email": "baxterriggs@comtrail.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": "",
+    "createdAt": "2023-03-29T06:23:40"
+  }
+]
